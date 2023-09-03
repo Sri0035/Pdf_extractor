@@ -1,4 +1,5 @@
 import PyPDF2
+import json
 
 pdf_file = open('Timetable_Karnataka.pdf', 'rb')
 pdf_file_reader  = PyPDF2.PdfReader(pdf_file)
@@ -19,6 +20,21 @@ for page_num in range(number_of_pages):
 
 pdf_file.close()
 
+   
+
+schedule = []
+
 for line in matching_lines:
-    print(line)
-                      
+    data = line.split(' ')
+    timings = data[3:] 
+    temp_data = {"from": data[0],
+                 "to": data[1],
+                 "frequency": data[2],
+                 "timing": timings
+                 }
+    schedule.append(temp_data)
+
+output_filename = 'schedule.json'
+
+with open(output_filename, 'w') as json_file: 
+    json.dump(schedule, json_file, indent=4)

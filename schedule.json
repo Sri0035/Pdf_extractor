@@ -1,0 +1,251 @@
+[
+    {
+        "from": "BALLARI",
+        "to": "KALABURAGI",
+        "frequency": "3",
+        "timing": [
+            "2130,",
+            "2214,",
+            "2230"
+        ]
+    },
+    {
+        "from": "BELAGAVI",
+        "to": "KALABURAGI",
+        "frequency": "3",
+        "timing": [
+            "0830,",
+            "2130,",
+            "2205"
+        ]
+    },
+    {
+        "from": "BENGALURU",
+        "to": "KALABURAGI",
+        "frequency": "6",
+        "timing": [
+            "1600,",
+            "1645,",
+            "1801,",
+            "1845,",
+            "1915,",
+            "2100"
+        ]
+    },
+    {
+        "from": "CHIKKODI",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "1040"
+        ]
+    },
+    {
+        "from": "DANDELI",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "0700,",
+            "2000"
+        ]
+    },
+    {
+        "from": "DAVANAGERE",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "1902,",
+            "2001"
+        ]
+    },
+    {
+        "from": "DHARWAD",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "1832,",
+            "2000"
+        ]
+    },
+    {
+        "from": "HAVERI",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "0630,"
+        ]
+    },
+    {
+        "from": "HOSAPETE",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "2246"
+        ]
+    },
+    {
+        "from": "HUBBALLI",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "0630,",
+            "2231"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "BALLARI",
+        "frequency": "3",
+        "timing": [
+            "2131,",
+            "2214,",
+            "2230"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "BELAGAVI",
+        "frequency": "2",
+        "timing": [
+            "2100,",
+            "2202"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "BENGALURU",
+        "frequency": "101330,",
+        "timing": [
+            "1401,",
+            "1501,",
+            "1602,",
+            "1633,",
+            "1700,",
+            "1826,",
+            ""
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "DANDELI",
+        "frequency": "1",
+        "timing": [
+            "1500"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "DAVANAGERE",
+        "frequency": "4",
+        "timing": [
+            "0715,",
+            "2004,",
+            "2100,",
+            "2130"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "DHARWAD",
+        "frequency": "2",
+        "timing": [
+            "1802,",
+            "2200"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "HOSAPETE",
+        "frequency": "1",
+        "timing": [
+            "2246"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "HUBBALLI",
+        "frequency": "3",
+        "timing": [
+            "0630,",
+            "1615,",
+            "2101"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "MANGALURU",
+        "frequency": "1",
+        "timing": [
+            "1030"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "MYSURU",
+        "frequency": "1",
+        "timing": [
+            "1228"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "RATHANAGIRI",
+        "frequency": "1",
+        "timing": [
+            "1601"
+        ]
+    },
+    {
+        "from": "KALABURAGI",
+        "to": "SHIVAMOGGA",
+        "frequency": "4",
+        "timing": [
+            "1400,",
+            "1730,",
+            "1817,",
+            "2030"
+        ]
+    },
+    {
+        "from": "MANGALURU",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "1430"
+        ]
+    },
+    {
+        "from": "MYSURU",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "1330"
+        ]
+    },
+    {
+        "from": "NIPPANI",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "0845,",
+            "0915"
+        ]
+    },
+    {
+        "from": "RATHANAGIRI\u00a0",
+        "to": "KALABURAGI",
+        "frequency": "1",
+        "timing": [
+            "2045,"
+        ]
+    },
+    {
+        "from": "SHIVAMOGGA",
+        "to": "KALABURAGI",
+        "frequency": "2",
+        "timing": [
+            "1900,",
+            "1932"
+        ]
+    }
+]
